@@ -1,5 +1,5 @@
 name: Flujo de Integración Continua
-on: [push]
+on: [ push ]
 
 jobs:
   ci:
